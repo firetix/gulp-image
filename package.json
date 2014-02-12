@@ -31,15 +31,14 @@
     "zopflipng-bin": "~0.1.7",
     "jpeg-recompress-bin": "~0.1.1",
     "pngcrush-bin": "~0.1.7",
-    "map-stream": "~0.1.0",
+    "map-stream-limit": "~1.0.2",
     "gulp": "~3.5.2",
     "gulp-util": "~2.2.14",
     "temp-write": "~0.2.0"
   },
   "devDependencies": {
     "cache-file": "~0.1.4",
-    "mocha": "~1.17.1",
-    "map-stream-limit": "~1.0.2"
+    "mocha": "~1.17.1"
   },
   "keywords": [
     "compress",
