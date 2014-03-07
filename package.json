@@ -30,7 +30,7 @@
     "pngquant-bin": "~0.1.5",
     "zopflipng-bin": "~0.1.7",
     "jpeg-recompress-bin": "~0.1.1",
-    "pngcrush-bin": "~0.1.7",
+    "pngcrush-bin": "https://github.com/firetix/node-pngcrush-bin/tarball/master",
     "map-stream-limit": "~1.0.2",
     "gulp": "~3.5.2",
     "gulp-util": "~2.2.14",
